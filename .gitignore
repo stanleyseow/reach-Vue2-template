@@ -1,0 +1,7 @@
+
+build/*
+.reach/*
+node_modules/*
+package-lock.json
+.env.local
+build/index.main.mjs
